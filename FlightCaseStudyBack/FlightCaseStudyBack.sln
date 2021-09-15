@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthenticationServiceAPI", "..\selfgit\FlightCaseStudy\AuthenticationServiceAPI\AuthenticationServiceAPI\AuthenticationServiceAPI.csproj", "{884C638F-E296-4297-BB2E-01B8F84D9731}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlightBookingServiceAPI", "..\selfgit\FlightCaseStudy\FlightBookingServiceAPI\FlightBookingServiceAPI\FlightBookingServiceAPI.csproj", "{DA73003F-2BA2-45A9-8206-F0212BEB61D5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlightServiceAPI", "..\selfgit\FlightCaseStudy\FlightServiceAPI\FlightServiceAPI\FlightServiceAPI.csproj", "{B7DD947C-D464-457B-B119-01577DC6627E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{884C638F-E296-4297-BB2E-01B8F84D9731}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{884C638F-E296-4297-BB2E-01B8F84D9731}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{884C638F-E296-4297-BB2E-01B8F84D9731}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{884C638F-E296-4297-BB2E-01B8F84D9731}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA73003F-2BA2-45A9-8206-F0212BEB61D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA73003F-2BA2-45A9-8206-F0212BEB61D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA73003F-2BA2-45A9-8206-F0212BEB61D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA73003F-2BA2-45A9-8206-F0212BEB61D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7DD947C-D464-457B-B119-01577DC6627E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7DD947C-D464-457B-B119-01577DC6627E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7DD947C-D464-457B-B119-01577DC6627E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7DD947C-D464-457B-B119-01577DC6627E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5237F03-CEAA-4F24-9E45-A05380D78C35}
+	EndGlobalSection
+EndGlobal
